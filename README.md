@@ -27,4 +27,4 @@
  <!--[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=havelockz)]()-->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havelockz&layout=compact&theme=tokyonight)](https://github.com/havelockz/github-readme-stats)
 
-[![havelockz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=havelockz)](https://github.com/havelockz/github-readme-stats)
+<!--[![havelockz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=havelockz)](https://github.com/havelockz/github-readme-stats)-->
