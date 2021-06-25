@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 
-💼- I’m currently not working at: 
-<br/>
+💼- I’m currently not working ... 
+<!--<br/>
 [![Accurate Badge](https://i.ytimg.com/vi/eLeFN2EkkB0/maxresdefault.jpg)](https://rawicz.com.ua/)
-<br/>
+<br/>-->
 
 📫- <b>How to reach me:</b> <br/>
 
