@@ -21,10 +21,13 @@
 - 💬 Ask me about WF, WPF and Material design on C#
 - 😄 Pronouns: Vova
 - ⚡ Fun fact: The heart of a blue whale the size of a car
-
+####STATS
 [![havelocz's github stats](https://github-readme-stats.vercel.app/api?username=havelockz&show_icons=true&theme=gotham)](https://github.com/havelockz/github-readme-stats)
 
+####TOP LANGUAGES
  <!--[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=havelockz)]()-->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havelockz&layout=compact&theme=tokyonight)](https://github.com/havelockz/github-readme-stats)
+ [![havelockz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havelockz&layout=compact&theme=tokyonight)](https://github.com/havelockz/github-readme-stats)
 
+#### STREAKS
+[![havelockz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=havelockz&theme=blue-green)](https://github.com/havelockz#streaks)
 <!--[![havelockz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=havelockz)](https://github.com/havelockz/github-readme-stats)-->
